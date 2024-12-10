@@ -33,7 +33,7 @@ const UserPage = () => {
             color: "white",
           }}
         >
-          Toggle Marital Status
+          Toggle Displaying Marital Status
         </Text>
       </TouchableOpacity>
     </View>
@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
     paddingLeft: 10,
     borderRadius: 10,
     height: 50,
-    width: "50%",
+    width: "60%",
     justifyContent: "center",
     alignItems: "center",
   },
